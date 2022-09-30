@@ -2,7 +2,7 @@
 
 ## Tiempo
 
-### Este gestor calcula el tiempo hasta infinito o hasta que alguien o detenga
+### Este gestor calcula el tiempo desde que se inicia hasta que alguien lo detenga
 
 ![Tiempo](reloj.png "Tiempo")
 
@@ -24,14 +24,14 @@
 
 ##  Idiomas
 
-### Este gestor cambia la palabra "HOLA" a 3 idiomas distintos
+### Este gestor cambia la palabra "HOLA" a 4 idiomas distintos
 
 ![idioma](traductor.png "idioma")
 
 
 ## Menú
 
-### Este gestor crea un menú
+### Este gestor crea una interfaz de un menú
 
 ![menu](menu.png "menu")
 
@@ -59,7 +59,7 @@
 
 ## angulo
 
-### este gestor hace la forma del angulo
+### Este gestor hace la forma del angulo
 
 ![angulo](angulo.png)
 
@@ -72,13 +72,13 @@
 
 ## formulario
 
-### en este gestor ay una pequeña encuesta
+### Este gestor crea una interfaz de un formulario
 
 ![encuesta](formulario4.png)
 
 
 ## acceder
 
-## este gestor hace que acceda al inicio de seccion
+## Esre gesttor crea una interfaz de inicio de seccion
 
 ![acceder](acceder.png)
